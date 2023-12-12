@@ -6,14 +6,14 @@
 - email : geetg.2902@gmail.com
 - github : https://github.com/geetgovind
 - github pages :-
--Introduction     : https://geetgovind.github.io/geetgovind
--Portfolio        : https://geetgovind.github.io/portfolio
--Survey project   : https://geetgovind.github.io/Survey
--Laravel Project  : https://geetgoivnd.github.io/argon
+- Introduction     : https://geetgovind.github.io/geetgovind
+- Portfolio        : https://geetgovind.github.io/portfolio
+- Survey project   : https://geetgovind.github.io/Survey
+- Laravel Project  : https://geetgoivnd.github.io/argon
 
--React project Coming Soon...
--with create-react-app
--with vite@latest
+- React project Coming Soon...
+- with create-react-app
+- with vite@latest
 
 <!---
 geetgovind/geetgovind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
