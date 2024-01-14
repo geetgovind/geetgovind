@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geetgovind
-- 👀 I’m interested in Software Development mostly REST API dependent
+- 👀 I’m interested in Software Development mostly REST API development
 - 🌱 I’m currently learning MERN stack for Full Stack Web Development
 - 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me :-
