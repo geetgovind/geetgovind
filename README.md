@@ -7,7 +7,7 @@
 - github : https://github.com/geetgovind
 - github pages :-
 - Introduction     : https://geetgovind.github.io/geetgovind
-- Portfolio        : https://geetgovind.github.io/portfolio
+- Portfolio        : https://geetgovind.github.io/resume
 - Survey project   : https://geetgovind.github.io/Survey
 - Laravel Project  
 
