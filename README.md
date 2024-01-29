@@ -9,7 +9,7 @@
 - Introduction     : https://geetgovind.github.io/geetgovind
 - Portfolio        : https://geetgovind.github.io/portfolio
 - Survey project   : https://geetgovind.github.io/Survey
-- Laravel Project  : https://geetgoivnd.github.io/argon
+- Laravel Project  
 
 - React project Coming Soon...
 - with create-react-app
