@@ -13,7 +13,7 @@
 
 - React project Coming Soon...
 - with create-react-app
-- with vite@latest
+- with vite        : https://geetgovind.github.io/vite-deploy
 
 <!---
 geetgovind/geetgovind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
