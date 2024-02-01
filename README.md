@@ -9,12 +9,12 @@
 - Introduction     : https://geetgovind.github.io/geetgovind
 - Portfolio        : https://geetgovind.github.io/resume
 - Survey project   : https://geetgovind.github.io/Survey
-- VS Code Ext.     : https://geetgovind.github.io/vscode-ext
+- VS Code Extensions : https://geetgovind.github.io/vscode-ext
 - Laravel Project  
 
 - React project Coming Soon...
 - with create-react-app
-- with vite        : https://geetgovind.github.io/vite-deploy
+- with vite        
 
 <!---
 geetgovind/geetgovind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
