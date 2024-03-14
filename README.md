@@ -14,7 +14,8 @@
 
 - React project Coming Soon...
 - with create-react-app
-- with vite        
+- with vite
+- Nextjs app with client side and server side rendering 
 
 <!---
 geetgovind/geetgovind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
