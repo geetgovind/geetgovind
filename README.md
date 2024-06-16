@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geetgovind
-- 👀 I’m interested in Software Development mostly REST API development
-- 🌱 I’m currently learning MERN stack for Full Stack Web Development
+- 👀 Interested in Software Development mostly REST API development
+- 🌱 I’m currently using MERN stack for Full Stack Web Development
 - 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me :-
 - email : geetg.2902@gmail.com
@@ -11,8 +11,7 @@
 - Survey project   : https://geetgovind.github.io/Survey
 - VS Code Extensions : https://geetgovind.github.io/vscode-ext
 - Laravel Project  
-
-- React project Coming Soon...
+- React project
 - with create-react-app
 - with vite
 - Nextjs app with client side and server side rendering 
