@@ -10,6 +10,7 @@
 - AI-Chatbot       : https://geetgovind.github.io/ai-bot/
 - NCERT-bot        : https://geetgovind.github.io/ai-cody/
 - AI-Assistant     : https://geetgovind.github.io/ai-tawk/
+- PPT using AI     : https://geetgovind.github.io/heatmap/ppt.html/
 - Portfolio        : https://geetgovind.github.io/resume
 - Survey project   : https://geetgovind.github.io/Survey
 - VS Code Extensions : https://geetgovind.github.io/vscode-ext
