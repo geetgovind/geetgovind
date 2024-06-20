@@ -8,6 +8,7 @@
 - github pages :-
 - Introduction     : https://geetgovind.github.io/geetgovind
 - AI-Chatbot       : https://geetgovind.github.io/ai-bot/
+- AI-Assistant     : https://geetgovind.github.io/ai-tawk/
 - Portfolio        : https://geetgovind.github.io/resume
 - Survey project   : https://geetgovind.github.io/Survey
 - VS Code Extensions : https://geetgovind.github.io/vscode-ext
