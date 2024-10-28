@@ -4,21 +4,12 @@
 - 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 How to reach me :-
 - email : geetg.2902@gmail.com
-- github : https://github.com/geetgovind
+- github : https://geetgovind.io
 - github pages :-
 - Introduction     : https://geetgovind.github.io/geetgovind
-- AI-Chatbot       : https://geetgovind.github.io/ai-bot/
-- NCERT-bot        : https://geetgovind.github.io/ai-cody/
-- AI-Assistant     : https://geetgovind.github.io/ai-tawk/
-- PPT using AI     : https://geetgovind.github.io/heatmap/ppt.html/
 - Portfolio        : https://geetgovind.github.io/resume
 - Survey project   : https://geetgovind.github.io/Survey
 - VS Code Extensions : https://geetgovind.github.io/vscode-ext
-- Laravel Project  
-- React project
-- with create-react-app
-- with vite
-- Nextjs app with client side and server side rendering 
 
 <!---
 geetgovind/geetgovind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
